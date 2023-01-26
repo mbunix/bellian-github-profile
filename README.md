@@ -7,7 +7,6 @@
 <h2> About </h2>
   <p align="start">
   Full-stack software engineer | Computer science student. </br>
-  MERN stack.</br>
   I love to code and develop solutions to humanity problems. 
   </p>
  
