@@ -7,9 +7,9 @@
 <h2> About </h2>
   <p align="start">
   Full-stack software engineer | Computer science student. </br>
-  I love to code and develop solutions to humanity problems. 
+  A passionate individual who likes to work on end to end products which develop sustainable and scalable social and technical systems to create impact an dsolve problems.
   </p>
-  <p> my portfolio collinsmwendwa.me
+  <p> my portfolio <a href="https//:collinsmwendwa.me">collinsmwendwa.me</a>
  
    <br />
   <br/>
