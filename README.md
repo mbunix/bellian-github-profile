@@ -9,6 +9,7 @@
   Full-stack software engineer | Computer science student. </br>
   I love to code and develop solutions to humanity problems. 
   </p>
+  <p> my portfolio collinsmwendwa.me
  
    <br />
   <br/>
