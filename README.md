@@ -19,6 +19,5 @@
  <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=mbunix&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
 <td>
 <br/>
-<a href="hwww.linkedin.com/in/collins-bellian-otieno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-<!-- ![Snake animation](https://github.com/collins1968/collins1968/blob/output/github-contribution-grid-snake.svg)                                     -->
+<a href="hwww.linkedin.com/in/bellian-otieno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+                         
